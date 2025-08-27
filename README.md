@@ -28,6 +28,29 @@ It combines DNS, WHOIS, subdomain enumeration, port scanning, technology fingerp
 
 ## 🖥️ Usage
 
+Run the tool with:
+
+*python sch.py*
+
+--
+
+==========================================
+      🔎 SCH — Simple Cyber Hunt
+==========================================
+[1] Whois Lookup
+[2] DNS Enumeration
+[3] Subdomain Scan
+[4] Security Header Check
+[5] Reverse IP Lookup
+[6] Port Scan
+[0] Exit
+==========================================
+Enter your choice:
+
+Just enter the number for the task you want to run.
+For example, enter 1 for Whois lookup.
+----
+
 ### Commands 
 ```bash
 
