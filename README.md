@@ -1,6 +1,4 @@
-# DirtyRecci 
-Built for security researchers, bug bounty hunters.. 
-----
+
 
 # ⚠️ Legal Disclaimer
 This project is for educational & authorized testing only.
