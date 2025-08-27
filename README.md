@@ -35,7 +35,7 @@ Run the tool with:
 ---
 
 ==========================================
-      🔎 SCH — Simple Cyber Hunt
+      🔎 DirtyRecci
 ==========================================
 [1] Whois Lookup
 [2] DNS Enumeration
