@@ -57,15 +57,24 @@ For example, enter 1 for Whois lookup.
 
 
 # INSTALLATION ~ 
+---
 
-git clone https://github.com/yourusername/sch.git   ~  # Clone Repo
-
+~  #Clone Repo ~
+```
+git clone https://github.com/yourusername/sch.git   
+```
+```
 cd sch
-
-pip install -r requirements.txt    ~ # Install Dependencies..
-
-------
-
-python sch.py      ~ # Run in Interactive mode..
-
-python sch.py --target example.com --full --json report.json      ~ # Run in Command Mode..
+```
+~ # Install Dependencies.. ~
+```
+pip install -r requirements.txt    
+```
+~ # Run in Interactive mode.. ~
+```
+python sch.py      
+```
+~ # Run in Command Mode.. ~
+```
+python sch.py --target example.com --full --json report.json      
+```
