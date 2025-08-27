@@ -49,7 +49,9 @@ Enter your choice:
 
 Just enter the number for the task you want to run.
 For example, enter 1 for Whois lookup.
+
 ----
+
 
 ### Commands 
 ```bash
