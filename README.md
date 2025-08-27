@@ -33,7 +33,7 @@ Run the tool with:
 *python sch.py*
 
 ---
-
+```
 =======================================================
       🔎 DirtyRecci
 -
@@ -54,7 +54,7 @@ For example, enter 1 for Whois lookup.
 
 
 ### Commands 
-```bash
+
 
 # INSTALLATION ~ 
 
