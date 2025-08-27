@@ -1,6 +1,7 @@
-# DirtyRecci
+# DirtyRecci 
 Built for security researchers, bug bounty hunters.. 
 ----
+
 # ⚠️ Legal Disclaimer
 This project is for educational & authorized testing only.
 I am not responsible for misuse. Always have permission before scanning.
@@ -29,7 +30,10 @@ It combines DNS, WHOIS, subdomain enumeration, port scanning, technology fingerp
 
 ## 🖥️ Usage
 
-### Install dependencies
+### Commands 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt    ~ # Install Dependencies..
 
+python sch.py      ~ # Run in Interactive mode..
+
+python sch.py --target example.com --full --json report.json      ~ # Run in Command Mode..
