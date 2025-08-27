@@ -30,7 +30,16 @@ It combines DNS, WHOIS, subdomain enumeration, port scanning, technology fingerp
 
 ### Commands 
 ```bash
+
+# INSTALLATION ~ 
+
+git clone https://github.com/yourusername/sch.git   ~  # Clone Repo
+
+cd sch
+
 pip install -r requirements.txt    ~ # Install Dependencies..
+
+------
 
 python sch.py      ~ # Run in Interactive mode..
 
