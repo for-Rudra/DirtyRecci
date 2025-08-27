@@ -35,7 +35,7 @@ Run the tool with:
 ---
 ```
 =======================================================
-      🔎 DirtyRecci
+      # 🔎 **DirtyRecci**
 -
 [1] Whois Lookup
 [2] DNS Enumeration
@@ -49,7 +49,7 @@ Enter your choice:
 
 Just enter the number for the task you want to run.
 For example, enter 1 for Whois lookup.
-
+```
 ----
 
 
