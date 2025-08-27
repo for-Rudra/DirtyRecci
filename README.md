@@ -32,7 +32,7 @@ Run the tool with:
 
 *python sch.py*
 
---
+---
 
 ==========================================
       🔎 SCH — Simple Cyber Hunt
