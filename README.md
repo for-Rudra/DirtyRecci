@@ -1,8 +1,8 @@
 
 
 # ⚠️ Legal Disclaimer
-This project is for educational & authorized testing only.
-I am not responsible for misuse. Always have permission before scanning.
+***This project is for educational & authorized testing only.***
+***I am not responsible for misuse. Always have permission before scanning.***
 
 ---
 
