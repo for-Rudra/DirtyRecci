@@ -34,7 +34,7 @@ Run the tool with:
 
 ---
 
-==========================================
+=====================================================
      # 🔎 DirtyRecci
 -
 [1] Whois Lookup
@@ -44,7 +44,7 @@ Run the tool with:
 [5] Reverse IP Lookup
 [6] Port Scan
 [0] Exit
-==========================================
+====================================================
 Enter your choice:
 
 Just enter the number for the task you want to run.
