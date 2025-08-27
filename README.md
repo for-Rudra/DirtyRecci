@@ -35,7 +35,7 @@ Run the tool with:
 ---
 
 ==========================================
-      🔎 DirtyRecci
+     # 🔎 DirtyRecci
 -
 [1] Whois Lookup
 [2] DNS Enumeration
