@@ -29,13 +29,13 @@ It combines DNS, WHOIS, subdomain enumeration, port scanning, technology fingerp
 ## 🖥️ Usage
 
 Run the tool with:
-
+```
 *python sch.py*
-
+```
 ---
 ```
 =======================================================
-      # 🔎 **DirtyRecci**
+      🔎 DirtyRecci
 -
 [1] Whois Lookup
 [2] DNS Enumeration
