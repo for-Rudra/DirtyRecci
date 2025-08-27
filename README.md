@@ -11,7 +11,7 @@ I am not responsible for misuse. Always have permission before scanning.
 **DRi** is a powerful **standalone reconnaissance toolkit** written in Python.  
 It combines DNS, WHOIS, subdomain enumeration, port scanning, technology fingerprinting, and more — into **one sleek CLI tool**.  
 
-🚀 Built for security researchers, bug bounty hunters, and students who want a **ready-to-use recon companion**.
+🚀 Built for security researchers, bug bounty hunters, whoever wants a **ready-to-use recon companion**.
 
 ---
 
