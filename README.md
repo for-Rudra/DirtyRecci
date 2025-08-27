@@ -36,7 +36,7 @@ Run the tool with:
 
 ==========================================
       🔎 DirtyRecci
-==========================================
+-
 [1] Whois Lookup
 [2] DNS Enumeration
 [3] Subdomain Scan
