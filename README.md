@@ -53,8 +53,6 @@ For example, enter 1 for Whois lookup.
 ----
 
 
-### Commands 
-
 
 # INSTALLATION ~ 
 ---
