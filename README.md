@@ -4,7 +4,7 @@
 ***This project is for educational & authorized testing only.***
 ***I am not responsible for misuse. Always have permission before scanning.***
 ***Under Developmental Phase, Use it at Your Own Risk Factor.***
-***I'll not be responsible for any mishap created using this Tool.***
+***I'll not be responsible for any mishap created by this Tool.***
 
 ---
 
